@@ -10,3 +10,5 @@
 - [x] Finish coding
 - [x] Design and perfect PowerPoint
 - [ ] Upload project
+
+The code looks organized and easy to follow, and there are a few comments explaining parts of it. It is a good base to start at.
